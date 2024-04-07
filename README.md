@@ -7,4 +7,9 @@ First you need to download the lasercut-box-openscad lib:
 Then you should be able to open the .scad file with OpenSCAD.  
 To get a flat representation for laser cutting just uncheck the `assemble` option in the customizer of OpenSCAD.
 
+To export:
+* uncheck `assemble`
+* Press F6
+* Export to whatever file format you want (e.g. dxf, svg...)
+
 ![Preview](https://github.com/aligator/water_bottle_holder/blob/main/Preview.png?raw=true)

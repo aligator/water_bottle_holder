@@ -1,6 +1,6 @@
 # Usage
 
-First you need to download the dependecy-lib:
+First you need to download the lasercut-box-openscad lib:
 * If downloaded with `git clone` just run: `git submodule update --init`
 * If otherwise downloaded, make sure to also download the [lasercut-box-openscad](https://github.com/larsch/lasercut-box-openscad/tree/0496a3a6516b91f7c5b02f35b9db21936ef27e01) lib and put it into the `lib/lasercut-box-openscad` folder.
 

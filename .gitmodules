@@ -1,0 +1,3 @@
+[submodule "lib/lasercut-box-openscad"]
+	path = lib/lasercut-box-openscad
+	url = git@github.com:larsch/lasercut-box-openscad.git

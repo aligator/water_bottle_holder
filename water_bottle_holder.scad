@@ -5,7 +5,7 @@ include <lib/lasercut-box-openscad/box.scad>
 assemble=true;
 
 height=200;
-thickness=3;
+thickness=4;
 gaps=20;
 radius=44;
 countX=3;
